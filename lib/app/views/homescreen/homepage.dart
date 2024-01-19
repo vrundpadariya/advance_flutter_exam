@@ -66,7 +66,6 @@ class homepage extends StatelessWidget {
                         height: 80,
                         width: 80,
                         decoration: BoxDecoration(
-                          color: Colors.red,
                           image: DecorationImage(
                             image: AssetImage(
                               "lib/app/assets/share.png",
