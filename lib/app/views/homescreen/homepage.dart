@@ -53,7 +53,6 @@ class homepage extends StatelessWidget {
                     style: GoogleFonts.roboto(),
                   ),
                   decoration: BoxDecoration(
-                    color: Colors.black,
                     borderRadius: BorderRadius.circular(
                       5,
                     ),
