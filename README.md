@@ -1,16 +1,18 @@
-# advance_flutter_exam
+Laugh Roulette: Random Jokes Edition
+Welcome to Laugh Roulette, where laughter knows no bounds! Brace yourself for a joyous journey into the world of spontaneous and random jokes that will keep you entertained, one chuckle at a time.
 
-A new Flutter project.
+Features
+1. Unpredictable Comedy
+Laugh Roulette delivers a constant stream of random jokes from various categories, ensuring that every moment is filled with surprise and amusement.
 
-## Getting Started
+2. Endless Variety
+Explore a diverse range of joke categories, from classic one-liners to witty puns. With an ever-expanding collection, there's always a new joke to discover.
 
-This project is a starting point for a Flutter application.
+3. Share the Laughter
+Spread the joy by easily sharing your favorite jokes with friends and family through social media, messaging apps, or email. Let the laughter contagion begin!
 
-A few resources to get you started if this is your first Flutter project:
+4. Personalized Experience
+Customize your laughter experience by setting preferences for your favorite joke categories. Laugh Roulette adapts to your sense of humor, ensuring a personalized and enjoyable experience.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+5. Simple and Intuitive
+Laugh Roulette is designed with simplicity in mind. Navigate effortlessly through the app, and let the jokes roll with just a tap.
