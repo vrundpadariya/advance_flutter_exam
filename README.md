@@ -16,3 +16,7 @@ Customize your laughter experience by setting preferences for your favorite joke
 
 5. Simple and Intuitive
 Laugh Roulette is designed with simplicity in mind. Navigate effortlessly through the app, and let the jokes roll with just a tap.
+
+
+
+** bold project was not not running that why photo was not upload**
