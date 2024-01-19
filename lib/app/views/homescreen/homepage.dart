@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-import '../../../../../module/helper/apihelper.dart';
-import '../../../../../module/model/apimodel.dart';
+import '../../model/apimodel/model.dart';
+import '../../model/helper/api_helper.dart';
 
 class homepage extends StatelessWidget {
   const homepage({super.key});

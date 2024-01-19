@@ -1,7 +1,8 @@
 import 'dart:convert';
 
-import 'package:advance_flutter_exam/app/module/api_model/model.dart';
 import 'package:http/http.dart' as http;
+
+import '../apimodel/model.dart';
 
 class Apihelper {
   Apihelper._();
