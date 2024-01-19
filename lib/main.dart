@@ -5,7 +5,8 @@ void main() {
     MaterialApp(
       debugShowCheckedModeBanner: false,
       routes: {
-        '/':(ctx) => Splash_scren();
+        '/': (ctx) => Splash_scren(),
+        'home': (ctx) => home(),
       },
     ),
   );
